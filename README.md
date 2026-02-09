@@ -8,4 +8,4 @@ Building the site myself proves that I know how HTML and CSS work together to cr
 I am also using GitHub to manage code versions and track changes throughout development.
 Publishing the site through GitHub Pages shows that I understand basic version control and professional development workflows.
 
-link to my site.(https://www.example.com)
+link to my site.(https://slayingdisc2143.github.io/)
